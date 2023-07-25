@@ -1,3 +1,3 @@
-FROM nikolaik/python-nodejs:python3.9-nodejs14
+FROM nikolaik/python-nodejs:python3.9-nodejs16
 
-RUN npm install -g serverless@2
+RUN npm install -g serverless@3
