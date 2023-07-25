@@ -1,2 +1,2 @@
 # python-nodejs-serverless
-Python 3.9 with NodeJs 14 and Serverless 2
+Python 3.9 with NodeJs 16 and Serverless 3
